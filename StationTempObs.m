@@ -1,4 +1,6 @@
-%% Add your names in a comment here at the beginning of the code!
+%% ADA
+%% I SOLVED IT
+%% ITS ALL DONE IT WAS EASY BC IM CS PR0F
 
 % Instructions: Follow through this code step by step, while also referring
 % to the overall instructions and questions from the lab assignment sheet.
